@@ -1,2 +1,2 @@
 # reactstaticweb
-basic exercise
+exercise implementing tasks from 2nd to the last from basics.
