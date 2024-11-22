@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.calculator {
+  display: inline-block;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.result {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  font-size: 1em;
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+button.reset {
+  background-color: #ff5e57;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
